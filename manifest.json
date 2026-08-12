@@ -3,12 +3,12 @@
     "beta": {
       "version": "0.1.1-ci-test",
       "releaseTag": "v0.1.1-ci-test",
-      "publishedAt": "2026-08-12T13:53:07Z",
+      "publishedAt": "2026-08-12T13:58:27Z",
       "artifacts": {
         "server-linux-x64": {
           "url": "https://github.com/shobman/miq-releases/releases/download/v0.1.1-ci-test/miq-server-0.1.1-ci-test-linux-x64.tar.gz",
-          "sha256": "0938e5ebfd39ac5bba4e191ee70897eabbaec4a4d80dc79d3cb447008198e18f",
-          "size": 46085442
+          "sha256": "b902e04ad019da629ecf587692ac3c94b39ba992c63924b84ba50e52ce9b45ef",
+          "size": 46085517
         },
         "firetv-apk": {
           "url": "https://github.com/shobman/miq-releases/releases/download/v0.1.1-ci-test/miq-firetv-0.1.1-ci-test.apk",
@@ -18,5 +18,5 @@
       }
     }
   },
-  "updatedAt": "2026-08-12T13:53:07Z"
+  "updatedAt": "2026-08-12T13:58:27Z"
 }
