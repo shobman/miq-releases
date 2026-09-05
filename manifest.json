@@ -1,0 +1,22 @@
+{
+  "channels": {
+    "beta": {
+      "version": "0.1.1-beta.1",
+      "releaseTag": "v0.1.1-beta.1",
+      "publishedAt": "2026-09-05T22:07:30Z",
+      "artifacts": {
+        "server-linux-x64": {
+          "url": "https://github.com/shobman/miq-releases/releases/download/v0.1.1-beta.1/miq-server-0.1.1-beta.1-linux-x64.tar.gz",
+          "sha256": "6317a24f7f8d9d1148bfbceef4c599e56e4b9e6157288f94bec94a74f7c1a67c",
+          "size": 46120995
+        },
+        "firetv-apk": {
+          "url": "https://github.com/shobman/miq-releases/releases/download/v0.1.1-beta.1/miq-firetv-0.1.1-beta.1.apk",
+          "sha256": "c733a1ede6b0bcfc2bee4b50b6a4c00203a34db2dcbbf446e901ab68b0bf0a29",
+          "size": 4898247
+        }
+      }
+    }
+  },
+  "updatedAt": "2026-09-05T22:07:30Z"
+}
