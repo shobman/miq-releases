@@ -15,7 +15,8 @@
           "sha256": "3ab7824be6070ff7ce823552dd916b762deaf00484f8d25630dbd18a43c41526",
           "size": 4906439
         }
-      }
+      },
+      "ownerNote": "owner-set 2026-09-07: this field must survive every publication (self-update O3)"
     }
   },
   "updatedAt": "2026-09-06T01:46:23Z"
