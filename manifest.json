@@ -1,23 +1,28 @@
 {
   "channels": {
     "beta": {
-      "version": "0.1.1-beta.4",
-      "releaseTag": "v0.1.1-beta.4",
-      "publishedAt": "2026-09-07T07:49:02Z",
+      "version": "0.1.1-beta.8",
+      "releaseTag": "v0.1.1-beta.8",
+      "publishedAt": "2026-09-09T03:37:26Z",
       "artifacts": {
         "server-linux-x64": {
-          "url": "https://github.com/shobman/miq-releases/releases/download/v0.1.1-beta.4/miq-server-0.1.1-beta.4-linux-x64.tar.gz",
-          "sha256": "5196718b1e8d6b5836b1a755ca2a3b68828c09302d4e9b1bc0c7c414be314b88",
-          "size": 46130463
+          "url": "https://github.com/shobman/miq-releases/releases/download/v0.1.1-beta.8/miq-server-0.1.1-beta.8-linux-x64.tar.gz",
+          "sha256": "063f1d1781bf16de0dcde1a2c009f4917c24534256c3ef2687069c807b5c3954",
+          "size": 46138904
         },
         "firetv-apk": {
-          "url": "https://github.com/shobman/miq-releases/releases/download/v0.1.1-beta.4/miq-firetv-0.1.1-beta.4.apk",
-          "sha256": "e942040b294ef2e84eb53d870026c2e5605e528acdb96cd2947f09b8ec237edb",
+          "url": "https://github.com/shobman/miq-releases/releases/download/v0.1.1-beta.8/miq-firetv-0.1.1-beta.8.apk",
+          "sha256": "8a8ba937a055486c6842542172178108ada4e97d2cb5e7bf1a498fd6f8d02e4f",
           "size": 4906439
+        },
+        "appliance-image": {
+          "url": "https://github.com/shobman/miq-releases/releases/download/v0.1.1-beta.8/miq-appliance-0.1.1-beta.8.img.zst",
+          "sha256": "36618bb373d61bdffb06f184a8b34d17b417af27f6ae5747ef89f3075c98e4c4",
+          "size": 1271455851
         }
       },
       "ownerNote": "owner-set 2026-09-07: this field must survive every publication (self-update O3)"
     }
   },
-  "updatedAt": "2026-09-07T07:49:02Z"
+  "updatedAt": "2026-09-09T03:37:26Z"
 }
